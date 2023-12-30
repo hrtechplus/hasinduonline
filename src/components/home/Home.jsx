@@ -15,10 +15,10 @@ const Home = () => {
 
         <HeaderSocials />
 
-        <a href="#contact" className="btn">
+        {/* <a href="#contact" className="btn">
           {" "}
           Contact Me
-        </a>
+        </a> */}
 
         <ScrollDown />
       </div>

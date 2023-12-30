@@ -9,6 +9,7 @@
   --body-color: hsl(258, 60%, 98%);
   --container-color: #fff;
   --border-color: rgba(0, 0, 0, 0.05);
+  --purple-first-color: rgb(126, 48, 225);
 
   /*=============== Font and Typohraphy ===============*/
   --body-font: "Noto Sans", san-serif;
@@ -164,7 +165,7 @@ img {
   border: 1px solid transparent;
   color: #fff;
   display: inline-block;
-  background-color: var(--first-color);
+  background-color: var(--purple-first-color);
   font-weight: var(--font-bold);
 }
 
