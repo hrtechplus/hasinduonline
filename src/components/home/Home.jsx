@@ -5,10 +5,15 @@ import HeaderSocials from "./HeaderSocials";
 import ScrollDown from "./ScrollDown";
 import Shapes from "./Shapes";
 import Button from "./Button";
+import Background from "./Background";
 
 const Home = () => {
   return (
-    <section className="home container" id="home">
+    <section
+      className="home container"
+      id="home"
+      style={{ background: { Background } }}
+    >
       <div className="intro">
         <img src={Me} alt="" className="home__img" width="120" />
         <h1 className="home__name">Hasindu Rangika</h1>
