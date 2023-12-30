@@ -3,6 +3,7 @@ import "./About.css";
 import Image from "../../assets/avatar-2.svg";
 import Resume from "../../assets/resume.pdf";
 import AboutBox from "./AboutBox";
+import Button from "../home/Button";
 
 const About = () => {
   const downloadResume = async () => {
@@ -41,9 +42,8 @@ const About = () => {
               <li>HTML/CSS</li>
               <li>Figma</li>
             </ul>
-            <button className="btn" onClick={downloadResume}>
-              Donwload CV
-            </button>
+            <Button onClick={downloadResume} title={title} />
+            {/* <a className="btn">Donwload CV</a> */}
           </div>
 
           {/* <div className="about__skills grid">
