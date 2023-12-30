@@ -3,13 +3,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 13rem;
+  width: 12rem;
   overflow: hidden;
-  height: 3rem;
+  height: 2.7rem;
   background-size: 300% 300%;
   backdrop-filter: blur(1rem);
   border-radius: 5rem;
-  transition: 0.5s;
+  /* transition: 0.5s; */
+  transition: transform 0.3s ease, background-position 0.3s ease;
   animation: gradient_301 5s ease infinite;
   border: double 4px transparent;
   background-image: linear-gradient(#212121, #212121),
@@ -35,13 +36,13 @@
   border-radius: 5rem;
 }
 
-strong {
+a {
   z-index: 2;
-  font-family: "Avalors Personal Use";
+  /* font-family: "Avalors Personal Use"; */
   font-size: 12px;
   letter-spacing: 5px;
   color: #ffffff;
-  text-shadow: 0 0 4px white;
+  text-shadow: 0 0 2px white;
 }
 
 #glow {
@@ -69,16 +70,15 @@ strong {
 .btn:hover #container-stars {
   z-index: 1;
   background-color: #212121;
+  transition: z-index 0.3s ease, background-color 0.3s ease;
 }
 
 .btn:hover {
   transform: scale(1.1);
+  transition: transform 0.3s ease;
 }
 
 .btn:active {
-  border: double 4px #fe53bb;
-  background-origin: border-box;
-  background-clip: content-box, border-box;
   animation: none;
 }
 

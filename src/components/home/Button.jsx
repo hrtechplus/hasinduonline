@@ -3,7 +3,7 @@ import "./Button.css";
 export default function Button() {
   return (
     <button class="btn" type="button">
-      <strong>Contact me</strong>
+      <a>Contact me</a>
       <div id="container-stars">
         <div id="stars"></div>
       </div>
