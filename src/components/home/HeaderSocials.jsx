@@ -4,6 +4,7 @@ import {
   FaFacebookF,
   FaLinkedinIn,
   FaInstagram,
+  XTwitter,
 } from "react-icons/fa";
 
 const HeaderSocials = () => {

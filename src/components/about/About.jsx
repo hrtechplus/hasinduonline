@@ -19,8 +19,8 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              Hello! I'm Greg, and I'm based in Sri Lanka. I study at SLIIT,
-              where I do my diploma Bachelor in Software Development.
+              Hello! I'm Hasindu, and I'm based in Sri Lanka. I study at SLIIT,
+              where I do my Bachelor in Software Development.
               <br />
               <br />
               Fastforward to today, and I can honestly say it's been a beautiful
