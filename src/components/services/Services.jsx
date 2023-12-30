@@ -46,7 +46,6 @@ const Services = () => {
           );
         })}
       </div>
-      <Card />
     </section>
   );
 };
