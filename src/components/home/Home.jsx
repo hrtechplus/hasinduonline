@@ -4,6 +4,7 @@ import Me from "../../assets/avatar-1.svg";
 import HeaderSocials from "./HeaderSocials";
 import ScrollDown from "./ScrollDown";
 import Shapes from "./Shapes";
+import Button from "./Button";
 
 const Home = () => {
   return (
@@ -17,9 +18,8 @@ const Home = () => {
 
         {/* <a href="#contact" className="btn">
           {" "}
-          Contact Me
         </a> */}
-
+        <Button />
         <ScrollDown />
       </div>
 
