@@ -1,5 +1,10 @@
 import React from "react";
-import { FaGithub, FaFacebookF, FaLinkedinIn, FaTwitter } from "react-icons/fa";
+import {
+  FaGithub,
+  FaFacebookF,
+  FaLinkedinIn,
+  FaInstagram,
+} from "react-icons/fa";
 
 const HeaderSocials = () => {
   return (
@@ -53,7 +58,7 @@ const HeaderSocials = () => {
         target="__blank"
         rel="noreferrer"
       >
-        <FaTwitter />
+        <FaInstagram />
       </a>
     </div>
   );
