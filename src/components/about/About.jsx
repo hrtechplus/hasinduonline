@@ -42,7 +42,7 @@ const About = () => {
               <li>HTML/CSS</li>
               <li>Figma</li>
             </ul>
-            <Button onClick={downloadResume} title={title} />
+            <Button onClick={downloadResume} title="Resume" />
             {/* <a className="btn">Donwload CV</a> */}
           </div>
 
