@@ -8,11 +8,12 @@ import Button from "./Button";
 import Background from "./Background";
 
 const Home = () => {
+  const backgroundImageUrl = "../../assets/imgesBg/ooorganize.svg";
   return (
     <section
       className="home container"
       id="home"
-      style={{ background: { Background } }}
+      style={{ background: `url(${backgroundImageUrl})` }}
     >
       <div className="intro">
         <img src={Me} alt="" className="home__img" width="120" />
