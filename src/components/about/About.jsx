@@ -1,5 +1,6 @@
 import React from "react";
 import "./About.css";
+import MeSec from "../../assets/mega-creator.png";
 import Image from "../../assets/avatar-2.svg";
 import Resume from "../../assets/resume.pdf";
 import AboutBox from "./AboutBox";

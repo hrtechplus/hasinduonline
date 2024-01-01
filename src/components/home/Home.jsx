@@ -1,10 +1,12 @@
 import React from "react";
 import "./Home.css";
 import Me from "../../assets/avatar-1.svg";
+
 import HeaderSocials from "./HeaderSocials";
 import ScrollDown from "./ScrollDown";
 import Shapes from "./Shapes";
 import Button from "./Button";
+
 import Background from "./Background";
 
 const Home = () => {
