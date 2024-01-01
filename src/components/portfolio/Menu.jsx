@@ -1,38 +1,37 @@
-import Work1 from "../../assets/native-jobs.png";
-import Work2 from "../../assets/cryptoverse.png";
-import Work3 from "../../assets/travel.png";
-import Work4 from "../../assets/blog-1.svg";
-import Dictionary from "../../assets/dic.webp";
+import Dictionary from "../../assets/imgesBg/portfolio/dictionary.webp";
+import QRCode from "../../assets/imgesBg/portfolio/qrcode.webp";
+import NIC from "../../assets/imgesBg/portfolio/nic.webp";
+import RPG from "../../assets/imgesBg/portfolio/rpg.webp";
 
 const Menu = [
   {
     id: 1,
     image: Dictionary,
-    title: "React Native Jobs App",
+    title: "Sinhala-English Dictionary",
     category: ["Frontend", "React"],
     repositoryUrl: "https://github.com/GregSithole/react-native-jobs",
   },
   {
     id: 2,
-    image: Work2,
-    title: "Cryptoverse",
+    image: QRCode,
+    title: "Custom QR Code Generator",
     category: ["Frontend", "React"],
     url: "https://cryptoverse.gregsithole.com",
     repositoryUrl: "https://github.com/GregSithole/crypto-app",
   },
   {
     id: 3,
-    image: Work3,
-    title: "Travel Advisor",
+    image: NIC,
+    title: "NIC Details Finder",
     category: ["Frontend"],
     url: "https://travel.gregsithole.com",
     repositoryUrl: "https://github.com/GregSithole/travel-advisor",
   },
   {
     id: 4,
-    image: Work4,
-    title: "Wallhaven CLI",
-    category: ["Backend"],
+    image: RPG,
+    title: "Random Password Generator",
+    category: ["Frontend", "HTML/CSS/JS"],
     url: "https://www.npmjs.com/package/wallhaven-cli",
     repositoryUrl: "https://github.com/GregSithole/wallhaven-cli",
   },
