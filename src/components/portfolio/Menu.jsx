@@ -1,4 +1,4 @@
-import Dictionary from "../../assets/imgesBg/portfolio/dictionary.webp";
+import Dictionary from "../../assets/imgesBg/portfolio/Dictionary.jpg";
 import QRCode from "../../assets/imgesBg/portfolio/QR Code Generator.jpg";
 import NIC from "../../assets/imgesBg/portfolio/nic.webp";
 import RPG from "../../assets/imgesBg/portfolio/rpg.webp";
@@ -20,20 +20,7 @@ const Menu = [
     category: ["Frontend", "React"],
     url: "https://qrcode.hasindu.online/",
   },
-  {
-    id: 3,
-    image: NIC,
-    title: "NIC Details Finder",
-    category: ["Frontend", "HTML/CSS/JS"],
-    url: "https://www.hasindu.online/apps/nic.html",
-  },
-  {
-    id: 4,
-    image: RPG,
-    title: "Random Password Generator",
-    category: ["Frontend", "HTML/CSS/JS"],
-    url: "https://www.npmjs.com/package/wallhaven-cli",
-  },
+
   {
     id: 5,
     image: FreelandCo,
@@ -47,6 +34,21 @@ const Menu = [
     title: "minupresidents.lk",
     category: ["Frontend", "HTML/CSS/JS"],
     url: "https://minupresidents.lk/",
+  },
+  {
+    id: 4,
+    image: RPG,
+    title: "Random Password Generator",
+    category: ["Frontend", "HTML/CSS/JS"],
+    url: "https://www.npmjs.com/package/wallhaven-cli",
+  },
+
+  {
+    id: 3,
+    image: NIC,
+    title: "NIC Details Finder",
+    category: ["Frontend", "HTML/CSS/JS"],
+    url: "https://www.hasindu.online/apps/nic.html",
   },
 ];
 
