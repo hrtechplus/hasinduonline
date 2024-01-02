@@ -34,7 +34,7 @@ const WorkExperience = [
     company: "Digital Platforms",
     yearsActive: "2018 - Present",
     information: [
-      "Self learning and regular practise are the keys to learn new things fast. I have learned many things from digital platforms.Thanks to Scrimba,Udemy and coursera",
+      "Self learning and regular practise are the keys to learn new things fast. I have learned many things from digital platforms.Thanks to Scrimba,Udemy and coursera.",
     ],
   },
 ];
