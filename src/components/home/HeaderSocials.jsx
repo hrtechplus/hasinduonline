@@ -6,6 +6,7 @@ import {
   FaInstagram,
   XTwitter,
 } from "react-icons/fa";
+import { AiFillInstagram } from "react-icons/ai";
 
 const HeaderSocials = () => {
   return (
@@ -59,7 +60,7 @@ const HeaderSocials = () => {
         target="__blank"
         rel="noreferrer"
       >
-        <FaInstagram />
+        <AiFillInstagram />
       </a>
     </div>
   );
