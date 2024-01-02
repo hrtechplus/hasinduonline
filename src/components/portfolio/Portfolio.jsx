@@ -55,7 +55,7 @@ const Portfolio = () => {
               : "portfolio__item"
           }
           onClick={() => {
-            filterItems("Backend");
+            filterItems("HTML/CSS/JS");
             setActiveFilter(2);
           }}
         >
