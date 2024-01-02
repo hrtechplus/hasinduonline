@@ -3,13 +3,13 @@ import React from "react";
 const Menu = [
   {
     id: 1,
-    image: Dictionary,
+    image: null,
     title: "Sinhala-English Dictionary",
     url: "https://dictionary.hasindu.online/",
   },
   {
     id: 2,
-    image: Dictionary,
+    image: null,
     title: "Sinhala-English Dictionary",
     url: "https://dictionary.hasindu.online/",
   },
