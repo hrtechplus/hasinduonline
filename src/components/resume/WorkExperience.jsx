@@ -11,7 +11,7 @@ const WorkExperience = [
   {
     id: 2,
     title: "A/O Level",
-    company: "Preseindent's College",
+    company: "President's College",
     yearsActive: " Jan 2012 - Oct 2020",
     information: [
       "I did my Advanced level in science stream. I got A's for ICT and 2C's in A level exam.",
