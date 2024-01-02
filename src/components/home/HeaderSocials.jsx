@@ -1,11 +1,5 @@
 import React from "react";
-import {
-  FaGithub,
-  FaFacebookF,
-  FaLinkedinIn,
-  FaInstagram,
-  XTwitter,
-} from "react-icons/fa";
+import { FaGithub, FaFacebookF, FaLinkedinIn } from "react-icons/fa";
 import { AiFillInstagram } from "react-icons/ai";
 
 const HeaderSocials = () => {

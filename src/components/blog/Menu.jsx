@@ -1,4 +1,3 @@
-import React from "react";
 import Image1 from "../../assets/imgesBg/blog/c.jfif";
 import Image2 from "../../assets/imgesBg/blog/reacrjs.jpeg";
 const Menu = [
