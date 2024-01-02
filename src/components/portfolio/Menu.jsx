@@ -1,8 +1,9 @@
 import Dictionary from "../../assets/imgesBg/portfolio/dictionary.webp";
-import QRCode from "../../assets/imgesBg/portfolio/qrcode.webp";
+import QRCode from "../../assets/imgesBg/portfolio/QR Code Generator.jpg";
 import NIC from "../../assets/imgesBg/portfolio/nic.webp";
 import RPG from "../../assets/imgesBg/portfolio/rpg.webp";
 import FreelandCo from "../../assets/imgesBg/portfolio/freelandco.jpg";
+import Schhol from "../../assets/imgesBg/portfolio/school.jpg";
 
 const Menu = [
   {
@@ -39,6 +40,13 @@ const Menu = [
     title: "freelando.com",
     category: ["Frontend", "HTML/CSS/JS"],
     url: "https://www.freelandco.com/",
+  },
+  {
+    id: 6,
+    image: Schhol,
+    title: "minupresidents.lk",
+    category: ["Frontend", "HTML/CSS/JS"],
+    url: "https://minupresidents.lk/",
   },
 ];
 
