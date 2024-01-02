@@ -7,8 +7,6 @@ import ScrollDown from "./ScrollDown";
 import Shapes from "./Shapes";
 import Button from "./Button";
 
-import Background from "./Background";
-
 const Home = () => {
   const backgroundImageUrl = "../../assets/imgesBg/ooorganize.svg";
   return (
