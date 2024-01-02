@@ -59,7 +59,7 @@ const Portfolio = () => {
             setActiveFilter(2);
           }}
         >
-          Backend
+          HTML/CSS
         </span>
         {/* <span
           className={

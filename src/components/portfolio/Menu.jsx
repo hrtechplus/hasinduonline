@@ -23,7 +23,7 @@ const Menu = [
     id: 3,
     image: NIC,
     title: "NIC Details Finder",
-    category: ["Frontend"],
+    category: ["Frontend", "HTML/CSS/JS"],
     url: "https://travel.gregsithole.com",
     repositoryUrl: "https://github.com/GregSithole/travel-advisor",
   },
