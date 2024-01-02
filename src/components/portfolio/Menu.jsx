@@ -2,6 +2,7 @@ import Dictionary from "../../assets/imgesBg/portfolio/dictionary.webp";
 import QRCode from "../../assets/imgesBg/portfolio/qrcode.webp";
 import NIC from "../../assets/imgesBg/portfolio/nic.webp";
 import RPG from "../../assets/imgesBg/portfolio/rpg.webp";
+import FreelandCo from "../../assets/imgesBg/portfolio/freelandco.jpg";
 
 const Menu = [
   {
@@ -9,20 +10,21 @@ const Menu = [
     image: Dictionary,
     title: "Sinhala-English Dictionary",
     category: ["Frontend", "React"],
+    url: "https://dictionary.hasindu.online/",
   },
   {
     id: 2,
     image: QRCode,
     title: "Custom QR Code Generator",
     category: ["Frontend", "React"],
-    url: "https://cryptoverse.gregsithole.com",
+    url: "https://qrcode.hasindu.online/",
   },
   {
     id: 3,
     image: NIC,
     title: "NIC Details Finder",
     category: ["Frontend", "HTML/CSS/JS"],
-    url: "https://travel.gregsithole.com",
+    url: "https://www.hasindu.online/apps/nic.html",
   },
   {
     id: 4,
@@ -33,10 +35,10 @@ const Menu = [
   },
   {
     id: 5,
-    image: RPG,
+    image: FreelandCo,
     title: "freelando.com",
     category: ["Frontend", "HTML/CSS/JS"],
-    url: "https://www.npmjs.com/package/wallhaven-cli",
+    url: "https://www.freelandco.com/",
   },
 ];
 
