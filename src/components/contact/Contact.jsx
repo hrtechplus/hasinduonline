@@ -28,7 +28,7 @@ const Contact = (props) => {
     };
 
     emailjs
-      .send("service_v9p2ipv", "template_zzqnreb", data, "htLeucw3mK-JIwt2k")
+      .send("service_v9p2ipv", "template_jc6hyoh", data, "htLeucw3mK-JIwt2k")
       .then(
         (result) => {
           setLoading(false);
