@@ -28,12 +28,7 @@ const Contact = (props) => {
     };
 
     emailjs
-      .send(
-        process.env.REACT_APP_EMAILJS_SERVICE_ID,
-        process.env.REACT_APP_EMAILJS_TEMPLATE_ID,
-        data,
-        process.env.REACT_APP_EMAILJS_PUBLIC_API
-      )
+      .send("service_v9p2ipv", "template_zzqnreb", data, "htLeucw3mK-JIwt2k")
       .then(
         (result) => {
           setLoading(false);
@@ -59,7 +54,7 @@ const Contact = (props) => {
           </p>
         </div>
 
-        <form className="contact__form">
+        <form onSubmit={submitHandler} className="contact__form">
           <div className="contact__form-group">
             <div className="contact__form-div">
               <input
