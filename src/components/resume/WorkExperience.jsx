@@ -30,12 +30,11 @@ const WorkExperience = [
   },
   {
     id: 4,
-    title: "Software Development Intern",
-    company: "The Digital Academy",
-    yearsActive: "Novembe 2015 - January 2016",
+    title: "Self Learning",
+    company: "Digital Platforms",
+    yearsActive: "2018 - Present",
     information: [
-      "Served as a dedicated and supportive Intern in a fast-paced environment",
-      "Worked to solve complex problems using the latest in Mobile and Web Technologies.",
+      "Self learning and regular practise are the keys to learn new things fast. I have learned many things from digital platforms.Thanks to Scrimba,Udemy and coursera",
     ],
   },
 ];
