@@ -6,6 +6,7 @@ const Menu = [
     id: 1,
     image: Image1,
     category: "C",
+    Date: "06 Jan, 2023",
     title: "C Functions - Sinhala",
     url: "https://hashnode.com/post/clckr6gk1000008mj3jojdwd4",
   },
@@ -13,8 +14,8 @@ const Menu = [
     id: 2,
     image: Image2,
     category: "ReactJS",
-    title:
-      "Explain ReactJS Composition and the Difference between Composition and Inheritance",
+    Date: "17 May, 2023",
+    title: "Explain ReactJS Composition",
     url: "https://hashnode.com/post/clhrbgpb9000609mb8lkg0ntj",
   },
 ];

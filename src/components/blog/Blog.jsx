@@ -9,7 +9,7 @@ const Blog = () => {
 
       <div className="blog__container grid">
         {Menu.map((elem) => {
-          const { id, image, title, category, url } = elem;
+          const { id, image, title, category, url, Date } = elem;
           return (
             <div className="blog__card" key={id}>
               <div className="blog__thumb">
@@ -24,7 +24,7 @@ const Blog = () => {
               <div className="blog__details">
                 <h3 className="blog__title">{title}</h3>
                 <div className="blog__meta">
-                  <span>09 February, 2022</span>
+                  <span>{Date}</span>
                   <span className="blog__dot">.</span>
                   <span>Hasindu</span>
                 </div>
