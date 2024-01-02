@@ -35,6 +35,7 @@ a {
   height: 100%;
   overflow: hidden;
   transition: 0.5s;
+  opacity: 0.1;
   /* backdrop-filter: blur(1rem); */
   border-radius: 5rem;
 }

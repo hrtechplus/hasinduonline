@@ -12,7 +12,9 @@ import Contact from "./components/contact/Contact";
 import useLocalStorage from "use-local-storage";
 
 function App() {
-  const defaultDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  const defaultDark = window.matchMedia(
+    "(prefers-color-scheme: light)"
+  ).matches;
   const [theme, setTheme] = useLocalStorage(
     "theme",
     defaultDark ? "light" : "dark"
