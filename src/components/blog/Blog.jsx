@@ -1,7 +1,6 @@
 import React from "react";
 import "./Blog.css";
 import Menu from "./Menu";
-import Image1 from "../../assets/blog-1.svg";
 
 const Blog = () => {
   return (
@@ -15,10 +14,10 @@ const Blog = () => {
             <div className="blog__card" key={id}>
               <div className="blog__thumb">
                 {" "}
-                <a href="#">
+                <a href={url}>
                   <span className="blog__category">{category}</span>
                 </a>
-                <a href="#">
+                <a href={url}>
                   <img src={image} alt="" className="blog__img" />
                 </a>
               </div>
