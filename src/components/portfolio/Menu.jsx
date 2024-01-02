@@ -9,7 +9,6 @@ const Menu = [
     image: Dictionary,
     title: "Sinhala-English Dictionary",
     category: ["Frontend", "React"],
-    repositoryUrl: "https://github.com/GregSithole/react-native-jobs",
   },
   {
     id: 2,
@@ -17,7 +16,6 @@ const Menu = [
     title: "Custom QR Code Generator",
     category: ["Frontend", "React"],
     url: "https://cryptoverse.gregsithole.com",
-    repositoryUrl: "https://github.com/GregSithole/crypto-app",
   },
   {
     id: 3,
@@ -25,7 +23,6 @@ const Menu = [
     title: "NIC Details Finder",
     category: ["Frontend", "HTML/CSS/JS"],
     url: "https://travel.gregsithole.com",
-    repositoryUrl: "https://github.com/GregSithole/travel-advisor",
   },
   {
     id: 4,
@@ -33,7 +30,13 @@ const Menu = [
     title: "Random Password Generator",
     category: ["Frontend", "HTML/CSS/JS"],
     url: "https://www.npmjs.com/package/wallhaven-cli",
-    repositoryUrl: "https://github.com/GregSithole/wallhaven-cli",
+  },
+  {
+    id: 5,
+    image: RPG,
+    title: "freelando.com",
+    category: ["Frontend", "HTML/CSS/JS"],
+    url: "https://www.npmjs.com/package/wallhaven-cli",
   },
 ];
 
