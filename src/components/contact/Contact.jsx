@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { toast, ToastContainer } from "react-toastify";
 import emailjs from "@emailjs/browser";
 
+import Button from "../home/Button";
 import "./Contact.css";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -96,7 +97,7 @@ const Contact = (props) => {
             ></textarea>
           </div>
 
-          <button type="submit" className="btn">
+          <button className="btn">
             {loading ? "Sending..." : "Send Message"}
           </button>
         </form>
