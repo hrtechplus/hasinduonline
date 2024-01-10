@@ -49,7 +49,7 @@ const HeaderSocials = () => {
       </a>
 
       <a
-        href="https://www.twitter.com/hrtechplus"
+        href="https://www.instagram.com/hasinduonline/"
         className="home__social-link"
         target="__blank"
         rel="noreferrer"
