@@ -4,6 +4,7 @@ import NIC from "../../assets/imgesBg/portfolio/nic.webp";
 import RPG from "../../assets/imgesBg/portfolio/rpg.webp";
 import FreelandCo from "../../assets/imgesBg/portfolio/freelandco.jpg";
 import Schhol from "../../assets/imgesBg/portfolio/school.jpg";
+import QouteAPI from "../../assets/imgesBg/portfolio/random qoute api.jpg";
 
 const Menu = [
   {
@@ -37,6 +38,13 @@ const Menu = [
   },
   {
     id: 5,
+    image: QouteAPI,
+    title: "Random Qoute API",
+    category: ["BackEnd", "HTML/CSS/JS"],
+    url: "https://github.com/hrtechplus/Random-inspirational-quotes-API.git",
+  },
+  {
+    id: 6,
     image: RPG,
     title: "Random Password Generator",
     category: ["Frontend", "HTML/CSS/JS"],
@@ -44,7 +52,7 @@ const Menu = [
   },
 
   {
-    id: 6,
+    id: 7,
     image: NIC,
     title: "NIC Details Finder",
     category: ["Frontend", "HTML/CSS/JS"],
