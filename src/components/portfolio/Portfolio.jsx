@@ -50,26 +50,26 @@ const Portfolio = () => {
         </span>
         <span
           className={
-            activeFilter === 1
-              ? "portfolio__item portfolio__item-active"
-              : "portfolio__item"
-          }
-          onClick={() => {
-            filterItems("Frontend");
-            setActiveFilter(1);
-          }}
-        >
-          Frontend
-        </span>
-        <span
-          className={
             activeFilter === 2
               ? "portfolio__item portfolio__item-active"
               : "portfolio__item"
           }
           onClick={() => {
-            filterItems("HTML/CSS/JS");
+            filterItems("BackEnd");
             setActiveFilter(2);
+          }}
+        >
+          Backend
+        </span>
+        <span
+          className={
+            activeFilter === 3
+              ? "portfolio__item portfolio__item-active"
+              : "portfolio__item"
+          }
+          onClick={() => {
+            filterItems("HTML/CSS/JS");
+            setActiveFilter(3);
           }}
         >
           HTML/CSS
