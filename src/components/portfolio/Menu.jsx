@@ -40,7 +40,7 @@ const Menu = [
     id: 5,
     image: QouteAPI,
     title: "Random Qoute API",
-    category: ["BackEnd", "HTML/CSS/JS"],
+    category: ["BackEnd"],
     url: "https://github.com/hrtechplus/Random-inspirational-quotes-API.git",
   },
   {
