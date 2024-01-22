@@ -22,21 +22,21 @@ const Menu = [
   },
 
   {
-    id: 5,
+    id: 3,
     image: FreelandCo,
     title: "freelando.com",
     category: ["Frontend", "HTML/CSS/JS"],
     url: "https://www.freelandco.com/",
   },
   {
-    id: 6,
+    id: 4,
     image: Schhol,
     title: "minupresidents.lk",
     category: ["Frontend", "HTML/CSS/JS"],
     url: "https://minupresidents.lk/",
   },
   {
-    id: 4,
+    id: 5,
     image: RPG,
     title: "Random Password Generator",
     category: ["Frontend", "HTML/CSS/JS"],
@@ -44,7 +44,7 @@ const Menu = [
   },
 
   {
-    id: 3,
+    id: 6,
     image: NIC,
     title: "NIC Details Finder",
     category: ["Frontend", "HTML/CSS/JS"],
