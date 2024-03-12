@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/hasinduonline/static/css/main.9e0214aa.css",
+    "main.js": "/hasinduonline/static/js/main.5dedaf96.js",
+    "static/media/school.jpg": "/hasinduonline/static/media/school.b9499e08698c1fde2eb1.jpg",
+    "static/media/QR Code Generator.jpg": "/hasinduonline/static/media/QR Code Generator.1812e9bef3d0a8d692f4.jpg",
+    "static/media/random qoute api.jpg": "/hasinduonline/static/media/random qoute api.f2158d80a7bc283b85be.jpg",
+    "static/media/reacrjs.jpeg": "/hasinduonline/static/media/reacrjs.4bcbfa16c0341cbbf2cf.jpeg",
+    "static/media/freelandco.jpg": "/hasinduonline/static/media/freelandco.e360fc317140d24760ae.jpg",
+    "static/media/Dictionary.jpg": "/hasinduonline/static/media/Dictionary.3d86c4eb615478358772.jpg",
+    "static/media/Hasindu-Rangika.pdf": "/hasinduonline/static/media/Hasindu-Rangika.5f5bce3fbd99bdbf5cf0.pdf",
+    "static/media/c.jfif": "/hasinduonline/static/media/c.5f0147f13385a17da637.jfif",
+    "static/media/nic.webp": "/hasinduonline/static/media/nic.6a378c7d2aa0aa25acbe.webp",
+    "static/media/rpg.webp": "/hasinduonline/static/media/rpg.6d4b4a48ab483d97c954.webp",
+    "static/media/service-3.svg": "/hasinduonline/static/media/service-3.4866c277ef3af25888dcfe29acef50ae.svg",
+    "static/media/avatar-1.svg": "/hasinduonline/static/media/avatar-1.8c1c4959dd5a6219e1f10fbd03ca96df.svg",
+    "static/media/avatar-2.svg": "/hasinduonline/static/media/avatar-2.e1870b095b1110389c8ae54d086d35b1.svg",
+    "static/media/avatar-3.svg": "/hasinduonline/static/media/avatar-3.5449673cc7126d1222196cc7a3535414.svg",
+    "static/media/avatar-4.svg": "/hasinduonline/static/media/avatar-4.3062c81f62fd750115a82003efc11372.svg",
+    "static/media/service-2.svg": "/hasinduonline/static/media/service-2.a61acb9c3e7a726f476c7e175a9935ab.svg",
+    "static/media/service-1.svg": "/hasinduonline/static/media/service-1.effe2b7ddb4804db788921b858e3fffa.svg",
+    "index.html": "/hasinduonline/index.html",
+    "static/media/hrlogo.svg": "/hasinduonline/static/media/hrlogo.f81cc0154dc72b35c717318a5d16f57a.svg",
+    "static/media/dots-bg-dark.svg": "/hasinduonline/static/media/dots-bg-dark.3a79e4a2778386f14af1.svg",
+    "static/media/dots-bg.svg": "/hasinduonline/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "main.9e0214aa.css.map": "/hasinduonline/static/css/main.9e0214aa.css.map",
+    "main.5dedaf96.js.map": "/hasinduonline/static/js/main.5dedaf96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e0214aa.css",
+    "static/js/main.5dedaf96.js"
+  ]
+}
