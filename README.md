@@ -1,1 +1,1 @@
-hasinduonline.github.io
+hrtechplus.github.io
