@@ -2,7 +2,7 @@
   "name": "hasindu-Online",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hrtechplus.github.io/hrtechplus.github.io",
+  "homepage": "https://hrtechplus.github.io",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@react-icons/all-files": "^4.1.0",
