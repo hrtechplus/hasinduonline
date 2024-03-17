@@ -1,2 +1,2 @@
-hrtechplus.github.io/hasinduonline
+hrtechplus.github.io/hasinduonline.io
 
