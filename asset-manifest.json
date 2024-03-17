@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da21cdd7.css",
+    "main.js": "/static/js/main.cc0f9c2b.js",
+    "static/media/school.jpg": "/static/media/school.b9499e08698c1fde2eb1.jpg",
+    "static/media/QR Code Generator.jpg": "/static/media/QR Code Generator.1812e9bef3d0a8d692f4.jpg",
+    "static/media/random qoute api.jpg": "/static/media/random qoute api.f2158d80a7bc283b85be.jpg",
+    "static/media/reacrjs.jpeg": "/static/media/reacrjs.4bcbfa16c0341cbbf2cf.jpeg",
+    "static/media/freelandco.jpg": "/static/media/freelandco.e360fc317140d24760ae.jpg",
+    "static/media/Dictionary.jpg": "/static/media/Dictionary.3d86c4eb615478358772.jpg",
+    "static/media/Hasindu-Rangika.pdf": "/static/media/Hasindu-Rangika.5f5bce3fbd99bdbf5cf0.pdf",
+    "static/media/c.jfif": "/static/media/c.5f0147f13385a17da637.jfif",
+    "static/media/nic.webp": "/static/media/nic.6a378c7d2aa0aa25acbe.webp",
+    "static/media/rpg.webp": "/static/media/rpg.6d4b4a48ab483d97c954.webp",
+    "static/media/service-3.svg": "/static/media/service-3.4866c277ef3af25888dcfe29acef50ae.svg",
+    "static/media/avatar-1.svg": "/static/media/avatar-1.8c1c4959dd5a6219e1f10fbd03ca96df.svg",
+    "static/media/avatar-2.svg": "/static/media/avatar-2.e1870b095b1110389c8ae54d086d35b1.svg",
+    "static/media/avatar-3.svg": "/static/media/avatar-3.5449673cc7126d1222196cc7a3535414.svg",
+    "static/media/avatar-4.svg": "/static/media/avatar-4.3062c81f62fd750115a82003efc11372.svg",
+    "static/media/service-2.svg": "/static/media/service-2.a61acb9c3e7a726f476c7e175a9935ab.svg",
+    "static/media/service-1.svg": "/static/media/service-1.effe2b7ddb4804db788921b858e3fffa.svg",
+    "index.html": "/index.html",
+    "static/media/hrlogo.svg": "/static/media/hrlogo.f81cc0154dc72b35c717318a5d16f57a.svg",
+    "static/media/dots-bg-dark.svg": "/static/media/dots-bg-dark.3a79e4a2778386f14af1.svg",
+    "static/media/dots-bg.svg": "/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "main.da21cdd7.css.map": "/static/css/main.da21cdd7.css.map",
+    "main.cc0f9c2b.js.map": "/static/js/main.cc0f9c2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da21cdd7.css",
+    "static/js/main.cc0f9c2b.js"
+  ]
+}
