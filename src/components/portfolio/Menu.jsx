@@ -12,14 +12,14 @@ const Menu = [
     image: Dictionary,
     title: "Sinhala-English Dictionary",
     category: ["Frontend", "React"],
-    url: "https://dictionary.hasindu.online/",
+    url: "https://hasindu.minupresidents.lk/dictionary/",
   },
   {
     id: 2,
     image: QRCode,
     title: "Custom QR Code Generator",
     category: ["Frontend", "React"],
-    url: "https://qrcode.hasindu.online/",
+    url: "https://hasindu.minupresidents.lk/qrcode/",
   },
 
   {
