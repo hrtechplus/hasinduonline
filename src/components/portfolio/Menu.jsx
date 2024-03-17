@@ -48,7 +48,7 @@ const Menu = [
     image: RPG,
     title: "Random Password Generator",
     category: ["Frontend", "HTML/CSS/JS"],
-    url: "https://www.npmjs.com/package/wallhaven-cli",
+    url: "https://hrtechplus.github.io/Random-Password-Generator.github.io/",
   },
 
   {
@@ -56,7 +56,7 @@ const Menu = [
     image: NIC,
     title: "NIC Details Finder",
     category: ["Frontend", "HTML/CSS/JS"],
-    url: "https://www.hasindu.online/apps/nic.html",
+    url: "https://hrtechplus.github.io/NIC-Details-Checker/",
   },
 ];
 
