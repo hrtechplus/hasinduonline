@@ -2,7 +2,7 @@
   "name": "hasindu-Online",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.hasindu.me",
+  "homepage": "https://hasindu.me/",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@react-icons/all-files": "^4.1.0",
