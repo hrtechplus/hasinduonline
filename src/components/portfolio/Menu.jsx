@@ -19,7 +19,7 @@ const Menu = [
     image: QRCode,
     title: "Custom QR Code Generator",
     category: ["Frontend", "React"],
-    url: "https://hasindu.minupresidents.lk/qrcode/",
+    url: "https://qrcode.hasindu.me/",
   },
 
   {
