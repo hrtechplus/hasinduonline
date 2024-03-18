@@ -12,7 +12,7 @@ const Menu = [
     image: Dictionary,
     title: "Sinhala-English Dictionary",
     category: ["Frontend", "React"],
-    url: "https://hasindu.minupresidents.lk/dictionary/",
+    url: "https://dictionary.hasindu.me/",
   },
   {
     id: 2,
