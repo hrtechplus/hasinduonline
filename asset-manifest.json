@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.da21cdd7.css",
-    "main.js": "/static/js/main.9e7049f0.js",
+    "main.js": "/static/js/main.aedbf64c.js",
     "static/media/school.jpg": "/static/media/school.b9499e08698c1fde2eb1.jpg",
-    "static/media/QR Code Generator.jpg": "/static/media/QR Code Generator.1812e9bef3d0a8d692f4.jpg",
+    "static/media/QR Code Generator.jpg": "/static/media/QR Code Generator.07b82026ff92d4eb138d.jpg",
     "static/media/random qoute api.jpg": "/static/media/random qoute api.f2158d80a7bc283b85be.jpg",
     "static/media/reacrjs.jpeg": "/static/media/reacrjs.4bcbfa16c0341cbbf2cf.jpeg",
     "static/media/freelandco.jpg": "/static/media/freelandco.e360fc317140d24760ae.jpg",
-    "static/media/Dictionary.jpg": "/static/media/Dictionary.3d86c4eb615478358772.jpg",
+    "static/media/Dictionary.jpg": "/static/media/Dictionary.0e2745696cb5d9c91860.jpg",
     "static/media/Hasindu-Rangika.pdf": "/static/media/Hasindu-Rangika.5f5bce3fbd99bdbf5cf0.pdf",
     "static/media/c.jfif": "/static/media/c.5f0147f13385a17da637.jfif",
     "static/media/nic.webp": "/static/media/nic.6a378c7d2aa0aa25acbe.webp",
@@ -24,10 +24,10 @@
     "static/media/dots-bg-dark.svg": "/static/media/dots-bg-dark.3a79e4a2778386f14af1.svg",
     "static/media/dots-bg.svg": "/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "main.da21cdd7.css.map": "/static/css/main.da21cdd7.css.map",
-    "main.9e7049f0.js.map": "/static/js/main.9e7049f0.js.map"
+    "main.aedbf64c.js.map": "/static/js/main.aedbf64c.js.map"
   },
   "entrypoints": [
     "static/css/main.da21cdd7.css",
-    "static/js/main.9e7049f0.js"
+    "static/js/main.aedbf64c.js"
   ]
 }
