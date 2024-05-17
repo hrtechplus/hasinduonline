@@ -5,6 +5,7 @@ import RPG from "../../assets/imgesBg/portfolio/rpg.webp";
 import FreelandCo from "../../assets/imgesBg/portfolio/freelandco.jpg";
 import Schhol from "../../assets/imgesBg/portfolio/school.jpg";
 import QouteAPI from "../../assets/imgesBg/portfolio/random qoute api.jpg";
+import FitFlexUi from "../../assets/imgesBg/portfolio/fitflexFigma.jpg";
 
 const Menu = [
   {
@@ -57,6 +58,13 @@ const Menu = [
     title: "NIC Details Finder",
     category: ["Frontend", "HTML/CSS/JS"],
     url: "https://hrtechplus.github.io/NIC-Details-Checker/",
+  },
+  {
+    id: 8,
+    image: FitFlexUi,
+    title: "FitFlex UI Design",
+    category: ["UI", "Figma"],
+    url: "https://www.figma.com/design/KZCFcppGBYRHpMAfG6zQA7/FitFLecMobileUI_Hasindu?node-id=0%3A1&t=JQkr2MFrOgv8PclW-1",
   },
 ];
 

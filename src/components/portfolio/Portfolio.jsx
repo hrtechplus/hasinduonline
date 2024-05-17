@@ -100,6 +100,19 @@ const Portfolio = () => {
         >
           React
         </span>
+        <span
+          className={
+            activeFilter === 5
+              ? "portfolio__item portfolio__item-active"
+              : "portfolio__item"
+          }
+          onClick={() => {
+            filterItems("Figma");
+            setActiveFilter(5);
+          }}
+        >
+          React
+        </span>
       </div>
 
       <div className="portfolio__container grid">
