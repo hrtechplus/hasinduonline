@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.da21cdd7.css",
-    "main.js": "/static/js/main.67b65fd3.js",
+    "main.js": "/static/js/main.5ab2c1a4.js",
     "static/media/school.jpg": "/static/media/school.b9499e08698c1fde2eb1.jpg",
+    "static/media/fitflexFigma.jpg": "/static/media/fitflexFigma.874e9f7e7931d43932e8.jpg",
     "static/media/QR Code Generator.jpg": "/static/media/QR Code Generator.07b82026ff92d4eb138d.jpg",
     "static/media/random qoute api.jpg": "/static/media/random qoute api.f2158d80a7bc283b85be.jpg",
     "static/media/reacrjs.jpeg": "/static/media/reacrjs.4bcbfa16c0341cbbf2cf.jpeg",
@@ -24,10 +25,10 @@
     "static/media/dots-bg-dark.svg": "/static/media/dots-bg-dark.3a79e4a2778386f14af1.svg",
     "static/media/dots-bg.svg": "/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "main.da21cdd7.css.map": "/static/css/main.da21cdd7.css.map",
-    "main.67b65fd3.js.map": "/static/js/main.67b65fd3.js.map"
+    "main.5ab2c1a4.js.map": "/static/js/main.5ab2c1a4.js.map"
   },
   "entrypoints": [
     "static/css/main.da21cdd7.css",
-    "static/js/main.67b65fd3.js"
+    "static/js/main.5ab2c1a4.js"
   ]
 }
