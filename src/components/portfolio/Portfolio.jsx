@@ -111,7 +111,7 @@ const Portfolio = () => {
             setActiveFilter(5);
           }}
         >
-          React
+          Figma
         </span>
       </div>
 
