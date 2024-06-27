@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.da21cdd7.css",
-    "main.js": "/static/js/main.01dbcedd.js",
+    "main.js": "/static/js/main.56fb9c06.js",
+    "static/media/Hasindu-Rangika.pdf": "/static/media/Hasindu-Rangika.f3b521cc773dbddc80eb.pdf",
     "static/media/school.jpg": "/static/media/school.b9499e08698c1fde2eb1.jpg",
     "static/media/fitflexFigma.jpg": "/static/media/fitflexFigma.874e9f7e7931d43932e8.jpg",
     "static/media/QR Code Generator.jpg": "/static/media/QR Code Generator.07b82026ff92d4eb138d.jpg",
@@ -9,7 +10,6 @@
     "static/media/reacrjs.jpeg": "/static/media/reacrjs.4bcbfa16c0341cbbf2cf.jpeg",
     "static/media/freelandco.jpg": "/static/media/freelandco.e360fc317140d24760ae.jpg",
     "static/media/Dictionary.jpg": "/static/media/Dictionary.0e2745696cb5d9c91860.jpg",
-    "static/media/Hasindu-Rangika.pdf": "/static/media/Hasindu-Rangika.5f5bce3fbd99bdbf5cf0.pdf",
     "static/media/c.jfif": "/static/media/c.5f0147f13385a17da637.jfif",
     "static/media/nic.webp": "/static/media/nic.6a378c7d2aa0aa25acbe.webp",
     "static/media/rpg.webp": "/static/media/rpg.6d4b4a48ab483d97c954.webp",
@@ -25,10 +25,10 @@
     "static/media/dots-bg-dark.svg": "/static/media/dots-bg-dark.3a79e4a2778386f14af1.svg",
     "static/media/dots-bg.svg": "/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "main.da21cdd7.css.map": "/static/css/main.da21cdd7.css.map",
-    "main.01dbcedd.js.map": "/static/js/main.01dbcedd.js.map"
+    "main.56fb9c06.js.map": "/static/js/main.56fb9c06.js.map"
   },
   "entrypoints": [
     "static/css/main.da21cdd7.css",
-    "static/js/main.01dbcedd.js"
+    "static/js/main.56fb9c06.js"
   ]
 }
