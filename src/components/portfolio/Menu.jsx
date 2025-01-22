@@ -28,14 +28,14 @@ const Menu = [
     image: FreelandCo,
     title: "freelando.com",
     category: ["Frontend", "HTML/CSS/JS"],
-    url: "https://www.freelandco.com/",
+    url: "https://hrtechplus.github.io/freelandco/",
   },
   {
     id: 4,
     image: Schhol,
     title: "minupresidents.lk",
     category: ["Frontend", "HTML/CSS/JS"],
-    url: "https://minupresidents.lk/",
+    url: "https://hrtechplus.github.io/Presidents-college/",
   },
   {
     id: 5,
