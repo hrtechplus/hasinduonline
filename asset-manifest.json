@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.da21cdd7.css",
-    "main.js": "/static/js/main.56fb9c06.js",
+    "main.css": "/static/css/main.b3e90c2a.css",
+    "main.js": "/static/js/main.7df1ee27.js",
     "static/media/Hasindu-Rangika.pdf": "/static/media/Hasindu-Rangika.f3b521cc773dbddc80eb.pdf",
     "static/media/school.jpg": "/static/media/school.b9499e08698c1fde2eb1.jpg",
     "static/media/fitflexFigma.jpg": "/static/media/fitflexFigma.874e9f7e7931d43932e8.jpg",
@@ -22,13 +22,13 @@
     "static/media/service-1.svg": "/static/media/service-1.effe2b7ddb4804db788921b858e3fffa.svg",
     "index.html": "/index.html",
     "static/media/hrlogo.svg": "/static/media/hrlogo.f81cc0154dc72b35c717318a5d16f57a.svg",
-    "static/media/dots-bg-dark.svg": "/static/media/dots-bg-dark.3a79e4a2778386f14af1.svg",
-    "static/media/dots-bg.svg": "/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
-    "main.da21cdd7.css.map": "/static/css/main.da21cdd7.css.map",
-    "main.56fb9c06.js.map": "/static/js/main.56fb9c06.js.map"
+    "static/media/dots-bg-dark.svg": "/static/media/dots-bg-dark.3fb919e37bd3f4cdeed2.svg",
+    "static/media/dots-bg.svg": "/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
+    "main.b3e90c2a.css.map": "/static/css/main.b3e90c2a.css.map",
+    "main.7df1ee27.js.map": "/static/js/main.7df1ee27.js.map"
   },
   "entrypoints": [
-    "static/css/main.da21cdd7.css",
-    "static/js/main.56fb9c06.js"
+    "static/css/main.b3e90c2a.css",
+    "static/js/main.7df1ee27.js"
   ]
 }
